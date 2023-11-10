@@ -1,6 +1,10 @@
 <h1 align="center">
-  Site do filme Mario Bros
+  Site Em Progresso
 </h1>
+
+<p align="left">
+  Objetivo do Site é usa-lo como base de estudo, acresentando mais e mais utilidades e conhecimento de tecnologia conforme o tempo!
+</p>
 
 <p align="center">
   <img src=".github/preview.png" width="100%" />
@@ -22,7 +26,9 @@
 - [x] Efeitos com a propriedade `transform` do css
 
 
-## 📝 Tema de casa
+## 📝 Objetivo
 
 - [ ] Criar responsividade
 - [ ] Adicionar efeito de hover nos botões
+- [ ] Adicionar Outros filmes
+- [ ] Utilizar Js para transições de pagina
