@@ -25,10 +25,12 @@
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
-
 ## 📝 Objetivo
 
+- [ ] Transformar esse projeto em uma coisa totalmente nova
 - [ ] Criar responsividade
 - [ ] Adicionar efeito de hover nos botões
 - [ ] Adicionar Outros filmes
 - [ ] Utilizar Js para transições de pagina
+
+Creditos: Leovargasdev
