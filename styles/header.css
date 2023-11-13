@@ -77,3 +77,10 @@ header img {
   transform: translateY(-5px);
   cursor: pointer;
 }
+
+/* header-home */
+
+header .homeico {
+  width: 50px;
+  height: auto;
+}
