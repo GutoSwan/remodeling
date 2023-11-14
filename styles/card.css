@@ -19,6 +19,7 @@
 .slide{
   width: 25%;
   position: relative;
+  transition: 5s;
 }
 
 .slide img{
