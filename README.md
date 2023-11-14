@@ -14,6 +14,7 @@
 
 - HTML
 - CSS
+- JS
 - [AOS Animate](https://michalsnik.github.io/aos/)
 
 ## 📔 Conhecimentos abordados
