@@ -32,5 +32,6 @@
 - [ ] Adicionar efeito de hover nos botões
 - [ ] Adicionar Outros filmes
 - [ ] Utilizar Js para transições de pagina
+- [ ] Fazer carrossel com linguagem pura "html, css e js"
 
 Creditos: Leovargasdev
