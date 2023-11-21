@@ -43,7 +43,7 @@ a, a:visited, a:active {
     font-weight: bold;
 }
 
-.film__title, .film__year {
+.film__title, .film__seg {
     display: block;
 }
 
