@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0fcf49;
+    background-color: #000000;
 }
 
 a, a:visited, a:active {
@@ -17,9 +17,9 @@ a, a:visited, a:active {
 
 .header {
     margin: 0.67em 0;
-    color: rgb(69, 218, 32);
+    color: rgb(0, 0, 0);
     background-color: #444444DD;
-    border: 3px solid rgb(32, 218, 94);
+    border: 3px solid rgb(0, 2, 1);
     border-radius: 10px;
     padding: 10px;
     width: 550px;
@@ -28,7 +28,7 @@ a, a:visited, a:active {
 }
 
 .footer {
-    color: rgb(48, 168, 11);
+    color: rgb(0, 0, 0);
     height: 50px;
     line-height: 50px;
 }
@@ -81,14 +81,14 @@ a, a:visited, a:active {
     font-family: monospace;
     font-weight: bold;
     font-size: 2rem;
-    border: 3px solid rgb(32, 218, 57);
+    border: 3px solid rgb(0, 0, 0);
     border-radius: 10px;
-    background-color: #444;
+    background-color: #8CE309;
 }
 
 .previous-button:focus, .next-button:focus {
     outline: none;
-    box-shadow: 0 0 6px 3px rgb(32, 218, 63);
+    box-shadow: 0 0 6px 3px #8CE309;
 }
 
 .carousel__list {
@@ -111,11 +111,11 @@ a, a:visited, a:active {
     max-width: calc(95vw - 20px);
     left: 10px;
     top: 10px;
-    border: 2px solid white;
+    border: 2px solid black;
     border-radius: 10px;
     font-size: 20px;
     font-weight: bold;
-    color: white;
+    color: black;
     text-align: center;
     transition: transform 1s, opacity 1s;
     display: flex;
@@ -123,26 +123,25 @@ a, a:visited, a:active {
     align-items: center;
     justify-content: center;
     counter-increment: list-counter;
-    background-color: rgba(128, 128, 128, 0.75);
+    background-color: #8CE309;
 }
 
 .carousel__cell::before {
     content: counter(list-counter);
-    color: white;
-    text-shadow: 2px 2px black;
+    color: rgb(0, 0, 0);
     width: 40px;
     height: 40px;
     line-height: 40px;
 }
 
 .carousel__cell.selected {
-    color: rgb(32, 218, 32);
-    border-color: rgb(54, 218, 32);
+    color: #000000;
+    border-color: #656263;
     border-width: 5px;
 }
 
 .carousel__cell.selected::before {
-    color: rgb(54, 218, 32);
+    
 }
 
 .carousel__cell:nth-child(1) { transform: rotateX(  0deg) translateZ(288px); }
