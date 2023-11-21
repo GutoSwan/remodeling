@@ -10,6 +10,10 @@
   <img src=".github/preview.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./assets/Captura de tela 2023-11-21 123209.png" width="100%" />
+</p>
+
 ## 🚀 Tecnologias
 
 - HTML
