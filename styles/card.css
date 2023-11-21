@@ -124,6 +124,31 @@ a, a:visited, a:active {
     justify-content: center;
     counter-increment: list-counter;
     background-color: #8CE309;
+
+    .triangle {
+      width: 0;
+      height: 0;
+      border-left: 70px solid transparent;
+      border-right: 70px solid transparent;
+      position: absolute;
+      top: 20%;
+    }
+    
+    #triangle-left {
+      border-bottom: 87px solid rgb(0, 0, 0);
+      transform: rotate(90deg);
+
+    
+      left: -27px;
+    }
+    
+    #triangle-right {
+      border-bottom: 87px solid rgb(0, 0, 0);
+      transform: rotate(-90deg);
+
+      right: -27px;
+    }
+    
 }
 
 .carousel__cell::before {
@@ -153,3 +178,8 @@ a, a:visited, a:active {
 .carousel__cell:nth-child(7) { transform: rotateX(240deg) translateZ(288px); }
 .carousel__cell:nth-child(8) { transform: rotateX(280deg) translateZ(288px); }
 .carousel__cell:nth-child(9) { transform: rotateX(320deg) translateZ(288px); }
+
+
+
+
+
