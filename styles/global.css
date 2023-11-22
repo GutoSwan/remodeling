@@ -2,6 +2,7 @@
 @import url('./header.css');
 @import url('./main.css');
 @import url('./card.css');
+@import url('./carouselhome.css');
 * {
     padding: 0;
     margin: 0;
