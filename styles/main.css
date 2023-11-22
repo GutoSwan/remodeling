@@ -74,6 +74,15 @@ main {
 
   transform: skew(-10deg);
 }
+.main__info__ben10 div button {
+  background: transparent;
+  border: 1px solid #656263;
+}
+.main__info__ben10 div a {
+  background: #91DD2F;
+  color: black;
+  font: bold;
+}
 
 
 .main__info__wonka div button {
@@ -111,4 +120,8 @@ main {
   letter-spacing: 0.3px;
 
   transform: skew(-10deg);
+}
+
+#wonka-container {
+
 }
