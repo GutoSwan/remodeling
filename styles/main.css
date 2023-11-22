@@ -75,11 +75,40 @@ main {
   transform: skew(-10deg);
 }
 
-.main__info__ben10 div a {
-  background: #8CE309;
+
+.main__info__wonka div button {
+  background: transparent;
+  border: 1px solid #FFCC00;
+}
+.main__info__wonka div a {
+  background: #4B1A13;
 }
 
-.main__info__ben10 div button {
-  background: transparent;
-  border: 1px solid #8CE309;
+.main__info__wonka {
+  width: 100%;
+  max-width: 570px;
+}
+
+.main__info__wonka p {
+  font-size: 18px;
+  margin: 20px 0 28px;
+}
+
+.main__info__wonka div {
+  display: flex;
+  column-gap: 32px;
+}
+
+.main__info__wonka div a, .main__info__wonka div button {
+  width: 100%;
+  padding: 10px 0;
+  border-radius: 3px;
+
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+
+  transform: skew(-10deg);
 }
