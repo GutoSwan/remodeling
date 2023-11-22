@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Captura de tela 2023-11-21 123209.png" width="100%" />
+  <img src="./assets/ben10.png" width="100%" />
 </p>
 
 ## 🚀 Tecnologias
