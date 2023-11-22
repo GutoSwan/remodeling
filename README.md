@@ -38,5 +38,6 @@
 - [ ] Adicionar Outros filmes
 - [ ] Utilizar Js para transições de pagina
 - [ ] Fazer carrossel com linguagem pura "html, css e js"
+- [ ] Adicionar outras opções de linguagem como "espanhol e ingles"
 
 Creditos: Leovargasdev
